@@ -94,4 +94,9 @@ appropriate completion.
 - [x] Data Visualization
 - [x] Model Prediction
 
+
+## Project Screenshot (sample)
+
+![Predictive_Stock_Market_Project_screenshot.PNG](https://raw.githubusercontent.com/alexmason97/Predictive_LSTM_Stock_Market_Project/main/Predictive%20Stock%20Market%20Project%20screenshot.PNG)
+
   
