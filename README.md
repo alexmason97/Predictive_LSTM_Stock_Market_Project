@@ -28,7 +28,7 @@ Enjoy!
 
 ## Authors
 
-- [@AlexMason](https://github.com/alexmason97)
+- [@alexmason97](https://github.com/alexmason97)
 
   
 ## Python Packages Used in Notebook
